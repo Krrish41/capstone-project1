@@ -1,31 +1,35 @@
-# Capstone Project1
-> My first Capstone project using HTML and CSS
+# Capstone Project 1
 
-## Overview
-This project, **capstone-project1**, was developed to solve specific challenges or explore new technologies. It serves as a demonstration of coding practices and problem-solving skills.
+My first capstone project using HTML and CSS.
 
-## Highlights / Key Features
-- **Core Functionality**: Delivers on the primary objective defined in the project description.
-- **Clean Implementation**: Codebase structured for readability and maintenance.
+**Live Demo:** [https://krrish41.github.io/capstone-project1/](https://krrish41.github.io/capstone-project1/)
 
-## Getting Started / Installation
+## About
+
+This is a capstone project demonstrating foundational HTML and CSS skills. It showcases:
+
+- Semantic HTML structure
+- CSS layout techniques (Flexbox/Grid)
+- Responsive design principles
+- Clean, organized code structure
+
+## Technologies Used
+
+- **HTML5** — Semantic markup
+- **CSS3** — Styling, layout, and responsiveness
+
+## Getting Started
+
 1. Clone the repository:
-   \\ash
+   ```bash
    git clone https://github.com/Krrish41/capstone-project1.git
    cd capstone-project1
-   \2. Follow standard setup instructions for a HTML project.
+   ```
 
-## Usage
-Explore the source code to understand the internal workings and run the project locally.
+2. Open `index.html` in any modern web browser
 
-## Built With
-- **HTML** - Primary language used.
+No build tools or dependencies required — it's a static site.
 
-## Contributing
-Contributions are always welcome! Feel free to open an issue or submit a PR.
+## License
 
-## License & Credits
-Open source. Check the repository for the exact LICENSE file if available.
-
-## Support & Contact
-Contact the maintainer at krrish4173@gmail.com.
+This project is open source and available under the MIT License.
